@@ -1,0 +1,10 @@
+{
+  "precedence": [
+    "Latest Approved Policy",
+    "Department SOP",
+    "Compliance Requirement",
+    "FAQ",
+    "Informal Guidance"
+  ],
+  "rule": "When active approved sources conflict, the higher-precedence current source governs; unresolved ambiguity routes to manual review."
+}

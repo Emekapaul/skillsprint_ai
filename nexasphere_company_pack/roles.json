@@ -1,0 +1,52 @@
+[
+  {
+    "role_id": "R01",
+    "role": "Customer Support Executive",
+    "department": "Customer Experience"
+  },
+  {
+    "role_id": "R02",
+    "role": "Sales Executive",
+    "department": "Sales"
+  },
+  {
+    "role_id": "R03",
+    "role": "HR Executive",
+    "department": "Human Resources"
+  },
+  {
+    "role_id": "R04",
+    "role": "Finance Associate",
+    "department": "Finance"
+  },
+  {
+    "role_id": "R05",
+    "role": "Operations Coordinator",
+    "department": "Operations"
+  },
+  {
+    "role_id": "R06",
+    "role": "Marketing Executive",
+    "department": "Marketing"
+  },
+  {
+    "role_id": "R07",
+    "role": "Software Support Engineer",
+    "department": "Technology"
+  },
+  {
+    "role_id": "R08",
+    "role": "Data Analyst",
+    "department": "Data & Analytics"
+  },
+  {
+    "role_id": "R09",
+    "role": "Information Security Analyst",
+    "department": "Information Security"
+  },
+  {
+    "role_id": "R10",
+    "role": "Team Manager",
+    "department": "Operations"
+  }
+]

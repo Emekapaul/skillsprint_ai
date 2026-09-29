@@ -1,0 +1,16 @@
+{
+  "name": "NexaSphere Technologies",
+  "industry": "Technology and business services",
+  "description": "A fictional African technology and business-services company used exclusively for the SkillSprint AI competition dataset.",
+  "departments": [
+    "Customer Experience",
+    "Technology",
+    "Finance",
+    "Human Resources",
+    "Operations",
+    "Sales",
+    "Marketing",
+    "Information Security",
+    "Data & Analytics"
+  ]
+}

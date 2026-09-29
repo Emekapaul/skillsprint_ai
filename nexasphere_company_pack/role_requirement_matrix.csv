@@ -1,0 +1,161 @@
+requirement_id,role,department,policy_requirement,process_requirement,competency,mandatory,priority,source_document_id,source_section_id,assessment_required,due_stage
+R001,Customer Support Executive,Customer Experience,Customer verification,Apply the approved customer verification process,Must Know,True,High,SUP-001,5,True,Day 1
+R002,Customer Support Executive,Customer Experience,Ticket handling,Apply the approved ticket handling process,Must Complete,True,High,SUP-001,5,True,Week 1
+R003,Customer Support Executive,Customer Experience,Escalation timing,Apply the approved escalation timing process,Must Demonstrate,True,High,ESC-001,1,True,Week 2
+R004,Customer Support Executive,Customer Experience,Customer data handling,Apply the approved customer data handling process,Must Know,True,High,PRI-001,5,True,First 30 Days
+R005,Customer Support Executive,Customer Experience,Customer verification,Apply the approved customer verification process,Must Complete,True,High,SUP-001,5,True,Day 1
+R006,Customer Support Executive,Customer Experience,Ticket handling,Apply the approved ticket handling process,Must Demonstrate,True,High,SUP-001,5,True,Week 1
+R007,Customer Support Executive,Customer Experience,Escalation timing,Apply the approved escalation timing process,Must Know,True,High,ESC-001,1,True,Week 2
+R008,Customer Support Executive,Customer Experience,Customer data handling,Apply the approved customer data handling process,Must Complete,True,High,PRI-001,5,True,First 30 Days
+R009,Customer Support Executive,Customer Experience,Customer verification,Apply the approved customer verification process,Must Demonstrate,True,High,SUP-001,5,True,Day 1
+R010,Customer Support Executive,Customer Experience,Ticket handling,Apply the approved ticket handling process,Must Know,True,High,SUP-001,5,True,Week 1
+R011,Customer Support Executive,Customer Experience,Escalation timing,Apply the approved escalation timing process,Must Complete,False,Medium,ESC-001,1,False,Week 2
+R012,Customer Support Executive,Customer Experience,Customer data handling,Apply the approved customer data handling process,Must Demonstrate,False,Medium,PRI-001,5,False,First 30 Days
+R013,Customer Support Executive,Customer Experience,Customer verification,Apply the approved customer verification process,Must Know,True,High,SUP-001,5,True,Day 1
+R014,Customer Support Executive,Customer Experience,Ticket handling,Apply the approved ticket handling process,Must Complete,False,Medium,SUP-001,5,False,Week 1
+R015,Customer Support Executive,Customer Experience,Escalation timing,Apply the approved escalation timing process,Must Demonstrate,True,High,ESC-001,1,True,Week 2
+R016,Customer Support Executive,Customer Experience,Customer data handling,Apply the approved customer data handling process,Must Know,False,Medium,PRI-001,5,False,First 30 Days
+R017,Sales Executive,Sales,Lead qualification,Apply the approved lead qualification process,Must Know,True,High,SAL-001,3,True,Day 1
+R018,Sales Executive,Sales,Opportunity updates,Apply the approved opportunity updates process,Must Complete,True,High,SAL-001,3,True,Week 1
+R019,Sales Executive,Sales,Pricing approval,Apply the approved pricing approval process,Must Demonstrate,True,High,SAL-001,3,True,Week 2
+R020,Sales Executive,Sales,Customer handover,Apply the approved customer handover process,Must Know,True,High,CRM-001,2,True,First 30 Days
+R021,Sales Executive,Sales,Lead qualification,Apply the approved lead qualification process,Must Complete,True,High,SAL-001,3,True,Day 1
+R022,Sales Executive,Sales,Opportunity updates,Apply the approved opportunity updates process,Must Demonstrate,True,High,SAL-001,3,True,Week 1
+R023,Sales Executive,Sales,Pricing approval,Apply the approved pricing approval process,Must Know,True,High,SAL-001,3,True,Week 2
+R024,Sales Executive,Sales,Customer handover,Apply the approved customer handover process,Must Complete,True,High,CRM-001,2,True,First 30 Days
+R025,Sales Executive,Sales,Lead qualification,Apply the approved lead qualification process,Must Demonstrate,True,High,SAL-001,3,True,Day 1
+R026,Sales Executive,Sales,Opportunity updates,Apply the approved opportunity updates process,Must Know,True,High,SAL-001,3,True,Week 1
+R027,Sales Executive,Sales,Pricing approval,Apply the approved pricing approval process,Must Complete,False,Medium,SAL-001,3,False,Week 2
+R028,Sales Executive,Sales,Customer handover,Apply the approved customer handover process,Must Demonstrate,False,Medium,CRM-001,2,False,First 30 Days
+R029,Sales Executive,Sales,Lead qualification,Apply the approved lead qualification process,Must Know,True,High,SAL-001,3,True,Day 1
+R030,Sales Executive,Sales,Opportunity updates,Apply the approved opportunity updates process,Must Complete,False,Medium,SAL-001,3,False,Week 1
+R031,Sales Executive,Sales,Pricing approval,Apply the approved pricing approval process,Must Demonstrate,True,High,SAL-001,3,True,Week 2
+R032,Sales Executive,Sales,Customer handover,Apply the approved customer handover process,Must Know,False,Medium,CRM-001,2,False,First 30 Days
+R033,HR Executive,Human Resources,Personnel records,Apply the approved personnel records process,Must Know,True,High,HR-001,2,True,Day 1
+R034,HR Executive,Human Resources,New-hire setup,Apply the approved new-hire setup process,Must Complete,True,High,REC-001,1,True,Week 1
+R035,HR Executive,Human Resources,Leave records,Apply the approved leave records process,Must Demonstrate,True,High,LV-001,3,True,Week 2
+R036,HR Executive,Human Resources,Conduct reporting,Apply the approved conduct reporting process,Must Know,True,High,CON-001,1,True,First 30 Days
+R037,HR Executive,Human Resources,Personnel records,Apply the approved personnel records process,Must Complete,True,High,HR-001,2,True,Day 1
+R038,HR Executive,Human Resources,New-hire setup,Apply the approved new-hire setup process,Must Demonstrate,True,High,REC-001,1,True,Week 1
+R039,HR Executive,Human Resources,Leave records,Apply the approved leave records process,Must Know,True,High,LV-001,3,True,Week 2
+R040,HR Executive,Human Resources,Conduct reporting,Apply the approved conduct reporting process,Must Complete,True,High,CON-001,1,True,First 30 Days
+R041,HR Executive,Human Resources,Personnel records,Apply the approved personnel records process,Must Demonstrate,True,High,HR-001,2,True,Day 1
+R042,HR Executive,Human Resources,New-hire setup,Apply the approved new-hire setup process,Must Know,True,High,REC-001,1,True,Week 1
+R043,HR Executive,Human Resources,Leave records,Apply the approved leave records process,Must Complete,False,Medium,LV-001,3,False,Week 2
+R044,HR Executive,Human Resources,Conduct reporting,Apply the approved conduct reporting process,Must Demonstrate,False,Medium,CON-001,1,False,First 30 Days
+R045,HR Executive,Human Resources,Personnel records,Apply the approved personnel records process,Must Know,True,High,HR-001,2,True,Day 1
+R046,HR Executive,Human Resources,New-hire setup,Apply the approved new-hire setup process,Must Complete,False,Medium,REC-001,1,False,Week 1
+R047,HR Executive,Human Resources,Leave records,Apply the approved leave records process,Must Demonstrate,True,High,LV-001,3,True,Week 2
+R048,HR Executive,Human Resources,Conduct reporting,Apply the approved conduct reporting process,Must Know,False,Medium,CON-001,1,False,First 30 Days
+R049,Finance Associate,Finance,Invoice processing,Apply the approved invoice processing process,Must Know,True,High,FIN-001,4,True,Day 1
+R050,Finance Associate,Finance,Payment approval,Apply the approved payment approval process,Must Complete,True,High,FIN-001,4,True,Week 1
+R051,Finance Associate,Finance,Reconciliation,Apply the approved reconciliation process,Must Demonstrate,True,High,FIN-001,4,True,Week 2
+R052,Finance Associate,Finance,Expense review,Apply the approved expense review process,Must Know,True,High,EXP-001,5,True,First 30 Days
+R053,Finance Associate,Finance,Invoice processing,Apply the approved invoice processing process,Must Complete,True,High,FIN-001,4,True,Day 1
+R054,Finance Associate,Finance,Payment approval,Apply the approved payment approval process,Must Demonstrate,True,High,FIN-001,4,True,Week 1
+R055,Finance Associate,Finance,Reconciliation,Apply the approved reconciliation process,Must Know,True,High,FIN-001,4,True,Week 2
+R056,Finance Associate,Finance,Expense review,Apply the approved expense review process,Must Complete,True,High,EXP-001,5,True,First 30 Days
+R057,Finance Associate,Finance,Invoice processing,Apply the approved invoice processing process,Must Demonstrate,True,High,FIN-001,4,True,Day 1
+R058,Finance Associate,Finance,Payment approval,Apply the approved payment approval process,Must Know,True,High,FIN-001,4,True,Week 1
+R059,Finance Associate,Finance,Reconciliation,Apply the approved reconciliation process,Must Complete,False,Medium,FIN-001,4,False,Week 2
+R060,Finance Associate,Finance,Expense review,Apply the approved expense review process,Must Demonstrate,False,Medium,EXP-001,5,False,First 30 Days
+R061,Finance Associate,Finance,Invoice processing,Apply the approved invoice processing process,Must Know,True,High,FIN-001,4,True,Day 1
+R062,Finance Associate,Finance,Payment approval,Apply the approved payment approval process,Must Complete,False,Medium,FIN-001,4,False,Week 1
+R063,Finance Associate,Finance,Reconciliation,Apply the approved reconciliation process,Must Demonstrate,True,High,FIN-001,4,True,Week 2
+R064,Finance Associate,Finance,Expense review,Apply the approved expense review process,Must Know,False,Medium,EXP-001,5,False,First 30 Days
+R065,Operations Coordinator,Operations,Operational records,Apply the approved operational records process,Must Know,True,High,COM-001,2,True,Day 1
+R066,Operations Coordinator,Operations,Escalation procedures,Apply the approved escalation procedures process,Must Complete,True,High,ESC-001,1,True,Week 1
+R067,Operations Coordinator,Operations,Business continuity,Apply the approved business continuity process,Must Demonstrate,True,High,BCM-001,3,True,Week 2
+R068,Operations Coordinator,Operations,Workflow controls,Apply the approved workflow controls process,Must Know,True,High,COM-001,2,True,First 30 Days
+R069,Operations Coordinator,Operations,Operational records,Apply the approved operational records process,Must Complete,True,High,COM-001,2,True,Day 1
+R070,Operations Coordinator,Operations,Escalation procedures,Apply the approved escalation procedures process,Must Demonstrate,True,High,ESC-001,1,True,Week 1
+R071,Operations Coordinator,Operations,Business continuity,Apply the approved business continuity process,Must Know,True,High,BCM-001,3,True,Week 2
+R072,Operations Coordinator,Operations,Workflow controls,Apply the approved workflow controls process,Must Complete,True,High,COM-001,2,True,First 30 Days
+R073,Operations Coordinator,Operations,Operational records,Apply the approved operational records process,Must Demonstrate,True,High,COM-001,2,True,Day 1
+R074,Operations Coordinator,Operations,Escalation procedures,Apply the approved escalation procedures process,Must Know,True,High,ESC-001,1,True,Week 1
+R075,Operations Coordinator,Operations,Business continuity,Apply the approved business continuity process,Must Complete,False,Medium,BCM-001,3,False,Week 2
+R076,Operations Coordinator,Operations,Workflow controls,Apply the approved workflow controls process,Must Demonstrate,False,Medium,COM-001,2,False,First 30 Days
+R077,Operations Coordinator,Operations,Operational records,Apply the approved operational records process,Must Know,True,High,COM-001,2,True,Day 1
+R078,Operations Coordinator,Operations,Escalation procedures,Apply the approved escalation procedures process,Must Complete,False,Medium,ESC-001,1,False,Week 1
+R079,Operations Coordinator,Operations,Business continuity,Apply the approved business continuity process,Must Demonstrate,True,High,BCM-001,3,True,Week 2
+R080,Operations Coordinator,Operations,Workflow controls,Apply the approved workflow controls process,Must Know,False,Medium,COM-001,2,False,First 30 Days
+R081,Marketing Executive,Marketing,Campaign approvals,Apply the approved campaign approvals process,Must Know,True,High,HAN-001,1,True,Day 1
+R082,Marketing Executive,Marketing,Customer data handling,Apply the approved customer data handling process,Must Complete,True,High,PRI-001,5,True,Week 1
+R083,Marketing Executive,Marketing,Brand controls,Apply the approved brand controls process,Must Demonstrate,True,High,HAN-001,1,True,Week 2
+R084,Marketing Executive,Marketing,Marketing records,Apply the approved marketing records process,Must Know,True,High,COM-001,2,True,First 30 Days
+R085,Marketing Executive,Marketing,Campaign approvals,Apply the approved campaign approvals process,Must Complete,True,High,HAN-001,1,True,Day 1
+R086,Marketing Executive,Marketing,Customer data handling,Apply the approved customer data handling process,Must Demonstrate,True,High,PRI-001,5,True,Week 1
+R087,Marketing Executive,Marketing,Brand controls,Apply the approved brand controls process,Must Know,True,High,HAN-001,1,True,Week 2
+R088,Marketing Executive,Marketing,Marketing records,Apply the approved marketing records process,Must Complete,True,High,COM-001,2,True,First 30 Days
+R089,Marketing Executive,Marketing,Campaign approvals,Apply the approved campaign approvals process,Must Demonstrate,True,High,HAN-001,1,True,Day 1
+R090,Marketing Executive,Marketing,Customer data handling,Apply the approved customer data handling process,Must Know,True,High,PRI-001,5,True,Week 1
+R091,Marketing Executive,Marketing,Brand controls,Apply the approved brand controls process,Must Complete,False,Medium,HAN-001,1,False,Week 2
+R092,Marketing Executive,Marketing,Marketing records,Apply the approved marketing records process,Must Demonstrate,False,Medium,COM-001,2,False,First 30 Days
+R093,Marketing Executive,Marketing,Campaign approvals,Apply the approved campaign approvals process,Must Know,True,High,HAN-001,1,True,Day 1
+R094,Marketing Executive,Marketing,Customer data handling,Apply the approved customer data handling process,Must Complete,False,Medium,PRI-001,5,False,Week 1
+R095,Marketing Executive,Marketing,Brand controls,Apply the approved brand controls process,Must Demonstrate,True,High,HAN-001,1,True,Week 2
+R096,Marketing Executive,Marketing,Marketing records,Apply the approved marketing records process,Must Know,False,Medium,COM-001,2,False,First 30 Days
+R097,Software Support Engineer,Technology,Code review,Apply the approved code review process,Must Know,True,High,DEV-001,4,True,Day 1
+R098,Software Support Engineer,Technology,Testing,Apply the approved testing process,Must Complete,True,High,DEV-001,4,True,Week 1
+R099,Software Support Engineer,Technology,Secrets management,Apply the approved secrets management process,Must Demonstrate,True,High,SEC-001,4,True,Week 2
+R100,Software Support Engineer,Technology,Incident escalation,Apply the approved incident escalation process,Must Know,True,High,ESC-001,1,True,First 30 Days
+R101,Software Support Engineer,Technology,Code review,Apply the approved code review process,Must Complete,True,High,DEV-001,4,True,Day 1
+R102,Software Support Engineer,Technology,Testing,Apply the approved testing process,Must Demonstrate,True,High,DEV-001,4,True,Week 1
+R103,Software Support Engineer,Technology,Secrets management,Apply the approved secrets management process,Must Know,True,High,SEC-001,4,True,Week 2
+R104,Software Support Engineer,Technology,Incident escalation,Apply the approved incident escalation process,Must Complete,True,High,ESC-001,1,True,First 30 Days
+R105,Software Support Engineer,Technology,Code review,Apply the approved code review process,Must Demonstrate,True,High,DEV-001,4,True,Day 1
+R106,Software Support Engineer,Technology,Testing,Apply the approved testing process,Must Know,True,High,DEV-001,4,True,Week 1
+R107,Software Support Engineer,Technology,Secrets management,Apply the approved secrets management process,Must Complete,False,Medium,SEC-001,4,False,Week 2
+R108,Software Support Engineer,Technology,Incident escalation,Apply the approved incident escalation process,Must Demonstrate,False,Medium,ESC-001,1,False,First 30 Days
+R109,Software Support Engineer,Technology,Code review,Apply the approved code review process,Must Know,True,High,DEV-001,4,True,Day 1
+R110,Software Support Engineer,Technology,Testing,Apply the approved testing process,Must Complete,False,Medium,DEV-001,4,False,Week 1
+R111,Software Support Engineer,Technology,Secrets management,Apply the approved secrets management process,Must Demonstrate,True,High,SEC-001,4,True,Week 2
+R112,Software Support Engineer,Technology,Incident escalation,Apply the approved incident escalation process,Must Know,False,Medium,ESC-001,1,False,First 30 Days
+R113,Data Analyst,Data & Analytics,Data access,Apply the approved data access process,Must Know,True,High,PRI-001,5,True,Day 1
+R114,Data Analyst,Data & Analytics,Data quality,Apply the approved data quality process,Must Complete,True,High,CRM-001,2,True,Week 1
+R115,Data Analyst,Data & Analytics,Analysis records,Apply the approved analysis records process,Must Demonstrate,True,High,COM-001,2,True,Week 2
+R116,Data Analyst,Data & Analytics,Privacy controls,Apply the approved privacy controls process,Must Know,True,High,PRI-001,5,True,First 30 Days
+R117,Data Analyst,Data & Analytics,Data access,Apply the approved data access process,Must Complete,True,High,PRI-001,5,True,Day 1
+R118,Data Analyst,Data & Analytics,Data quality,Apply the approved data quality process,Must Demonstrate,True,High,CRM-001,2,True,Week 1
+R119,Data Analyst,Data & Analytics,Analysis records,Apply the approved analysis records process,Must Know,True,High,COM-001,2,True,Week 2
+R120,Data Analyst,Data & Analytics,Privacy controls,Apply the approved privacy controls process,Must Complete,True,High,PRI-001,5,True,First 30 Days
+R121,Data Analyst,Data & Analytics,Data access,Apply the approved data access process,Must Demonstrate,True,High,PRI-001,5,True,Day 1
+R122,Data Analyst,Data & Analytics,Data quality,Apply the approved data quality process,Must Know,True,High,CRM-001,2,True,Week 1
+R123,Data Analyst,Data & Analytics,Analysis records,Apply the approved analysis records process,Must Complete,False,Medium,COM-001,2,False,Week 2
+R124,Data Analyst,Data & Analytics,Privacy controls,Apply the approved privacy controls process,Must Demonstrate,False,Medium,PRI-001,5,False,First 30 Days
+R125,Data Analyst,Data & Analytics,Data access,Apply the approved data access process,Must Know,True,High,PRI-001,5,True,Day 1
+R126,Data Analyst,Data & Analytics,Data quality,Apply the approved data quality process,Must Complete,False,Medium,CRM-001,2,False,Week 1
+R127,Data Analyst,Data & Analytics,Analysis records,Apply the approved analysis records process,Must Demonstrate,True,High,COM-001,2,True,Week 2
+R128,Data Analyst,Data & Analytics,Privacy controls,Apply the approved privacy controls process,Must Know,False,Medium,PRI-001,5,False,First 30 Days
+R129,Information Security Analyst,Information Security,Access control,Apply the approved access control process,Must Know,True,High,SEC-001,4,True,Day 1
+R130,Information Security Analyst,Information Security,Security incidents,Apply the approved security incidents process,Must Complete,True,High,SEC-001,4,True,Week 1
+R131,Information Security Analyst,Information Security,Data classification,Apply the approved data classification process,Must Demonstrate,True,High,SEC-001,4,True,Week 2
+R132,Information Security Analyst,Information Security,Audit records,Apply the approved audit records process,Must Know,True,High,COM-001,2,True,First 30 Days
+R133,Information Security Analyst,Information Security,Access control,Apply the approved access control process,Must Complete,True,High,SEC-001,4,True,Day 1
+R134,Information Security Analyst,Information Security,Security incidents,Apply the approved security incidents process,Must Demonstrate,True,High,SEC-001,4,True,Week 1
+R135,Information Security Analyst,Information Security,Data classification,Apply the approved data classification process,Must Know,True,High,SEC-001,4,True,Week 2
+R136,Information Security Analyst,Information Security,Audit records,Apply the approved audit records process,Must Complete,True,High,COM-001,2,True,First 30 Days
+R137,Information Security Analyst,Information Security,Access control,Apply the approved access control process,Must Demonstrate,True,High,SEC-001,4,True,Day 1
+R138,Information Security Analyst,Information Security,Security incidents,Apply the approved security incidents process,Must Know,True,High,SEC-001,4,True,Week 1
+R139,Information Security Analyst,Information Security,Data classification,Apply the approved data classification process,Must Complete,False,Medium,SEC-001,4,False,Week 2
+R140,Information Security Analyst,Information Security,Audit records,Apply the approved audit records process,Must Demonstrate,False,Medium,COM-001,2,False,First 30 Days
+R141,Information Security Analyst,Information Security,Access control,Apply the approved access control process,Must Know,True,High,SEC-001,4,True,Day 1
+R142,Information Security Analyst,Information Security,Security incidents,Apply the approved security incidents process,Must Complete,False,Medium,SEC-001,4,False,Week 1
+R143,Information Security Analyst,Information Security,Data classification,Apply the approved data classification process,Must Demonstrate,True,High,SEC-001,4,True,Week 2
+R144,Information Security Analyst,Information Security,Audit records,Apply the approved audit records process,Must Know,False,Medium,COM-001,2,False,First 30 Days
+R145,Team Manager,Operations,Manager approvals,Apply the approved manager approvals process,Must Know,True,High,HR-001,2,True,Day 1
+R146,Team Manager,Operations,Escalation,Apply the approved escalation process,Must Complete,True,High,ESC-001,1,True,Week 1
+R147,Team Manager,Operations,Training completion,Apply the approved training completion process,Must Demonstrate,True,High,COM-001,2,True,Week 2
+R148,Team Manager,Operations,Performance reviews,Apply the approved performance reviews process,Must Know,True,High,HR-001,2,True,First 30 Days
+R149,Team Manager,Operations,Manager approvals,Apply the approved manager approvals process,Must Complete,True,High,HR-001,2,True,Day 1
+R150,Team Manager,Operations,Escalation,Apply the approved escalation process,Must Demonstrate,True,High,ESC-001,1,True,Week 1
+R151,Team Manager,Operations,Training completion,Apply the approved training completion process,Must Know,True,High,COM-001,2,True,Week 2
+R152,Team Manager,Operations,Performance reviews,Apply the approved performance reviews process,Must Complete,True,High,HR-001,2,True,First 30 Days
+R153,Team Manager,Operations,Manager approvals,Apply the approved manager approvals process,Must Demonstrate,True,High,HR-001,2,True,Day 1
+R154,Team Manager,Operations,Escalation,Apply the approved escalation process,Must Know,True,High,ESC-001,1,True,Week 1
+R155,Team Manager,Operations,Training completion,Apply the approved training completion process,Must Complete,False,Medium,COM-001,2,False,Week 2
+R156,Team Manager,Operations,Performance reviews,Apply the approved performance reviews process,Must Demonstrate,False,Medium,HR-001,2,False,First 30 Days
+R157,Team Manager,Operations,Manager approvals,Apply the approved manager approvals process,Must Know,True,High,HR-001,2,True,Day 1
+R158,Team Manager,Operations,Escalation,Apply the approved escalation process,Must Complete,False,Medium,ESC-001,1,False,Week 1
+R159,Team Manager,Operations,Training completion,Apply the approved training completion process,Must Demonstrate,True,High,COM-001,2,True,Week 2
+R160,Team Manager,Operations,Performance reviews,Apply the approved performance reviews process,Must Know,False,Medium,HR-001,2,False,First 30 Days
